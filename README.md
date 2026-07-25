@@ -214,11 +214,7 @@ Author of **"N-CYPHER: The Future of AI Automation and Intelligent Ecosystems"**
 
 ## GitHub Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush17goyal/Ayush17goyal/output/github-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush17goyal/Ayush17goyal/output/github-snake-light.svg">
-  <img src="https://raw.githubusercontent.com/Ayush17goyal/Ayush17goyal/output/github-snake.svg" alt="Contribution snake for Ayush17goyal" width="100%">
-</picture>
+<img src="github-snake-custom.svg?v=1" alt="Contribution snake for Ayush17goyal" width="100%"/>
 
 ## Connect With Me
 
