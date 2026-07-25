@@ -23,9 +23,15 @@
 
 ## Introduction
 
-I'm **Ayush Goyal** — a Full Stack Developer, Cybersecurity Learner, and Data Analyst with AI, currently pursuing a **B.Tech in Computer Science & Engineering at Amity University, Noida** (2024–2028).
+I'm **Ayush Goyal** — Founder & CEO at **N-CYPHER Automations** | Full Stack Developer | AI & Agentic Systems Engineer | Cybersecurity Learner.
 
-I build AI products, intelligent automation systems, and scalable software with a focus on LLMs, Agentic AI, and real-world problem solving. Founder of **N-CYPHER Automations** — an AI automation agency building systems that drive real results.
+I'm a Computer Science undergraduate at **Amity University, Noida**, passionate about building AI-powered products that solve real business problems.
+
+As the Founder & CEO of **N-CYPHER Automations**, I design and develop intelligent automation systems, AI agents, custom web applications, and workflow solutions that help businesses operate more efficiently and scale faster.
+
+My expertise spans Full Stack Development, Large Language Models (LLMs), Agentic AI, workflow automation, cloud technologies, data analytics, and cybersecurity. I enjoy turning complex ideas into practical, production-ready software with a strong focus on performance, scalability, and user experience.
+
+I'm continuously exploring emerging technologies and building solutions that bridge AI research with real-world applications.
 
 > *"Building intelligent systems that solve real-world problems."*
 
