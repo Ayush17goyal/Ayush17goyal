@@ -87,9 +87,7 @@ I'm continuously exploring emerging technologies and building solutions that bri
 
 ## Tech Stack
 
-<table width="100%">
-<tr>
-<td width="68%" valign="top">
+<img src="robot.svg?v=1" alt="N-CYPHER AI Robot" width="200" align="right"/>
 
 **Languages**
 <p>
@@ -129,15 +127,6 @@ I'm continuously exploring emerging technologies and building solutions that bri
 <img src="https://img.shields.io/badge/Git-05060B?style=for-the-badge&logo=git&logoColor=8B5CF6"/>
 <img src="https://img.shields.io/badge/GitHub-05060B?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </p>
-
-</td>
-<td width="32%" align="center" valign="middle">
-
-<img src="robot.svg?v=1" alt="N-CYPHER AI Robot" width="220"/>
-
-</td>
-</tr>
-</table>
 
 ## Published Work
 
