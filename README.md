@@ -194,11 +194,19 @@ Author of **"N-CYPHER: The Future of AI Automation and Intelligent Ecosystems"**
 
 ## Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayush17goyal&theme=darkhub&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="trophies.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="trophies-light.svg?v=2">
+  <img src="trophies.svg?v=2" alt="Trophy case for Ayush17goyal" width="100%">
+</picture>
 
 ## Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush17goyal&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=8B5CF6&title_color=A78BFA&text_color=EEF0FA&langs_count=8&card_width=445" alt="Most used languages" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="langs.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="langs-light.svg?v=2">
+  <img src="langs.svg?v=2" alt="Most used languages for Ayush17goyal" width="100%">
+</picture>
 
 ## Streak Stats
 

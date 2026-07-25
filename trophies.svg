@@ -1,15 +1,51 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 170" width="480" height="170" role="img" aria-label="Trophy Case">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 278" width="488" height="278" role="img" aria-label="Trophy Case">
 <title>Trophy Case</title>
 <defs>
 <linearGradient id="trc_bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0A0D16"/><stop offset="100%" stop-color="#05060B"/></linearGradient>
 <filter id="trc_bl" x="-150%" y="-150%" width="400%" height="400%"><feGaussianBlur stdDeviation="34"/></filter>
-<clipPath id="trc_cl"><rect width="480" height="170" rx="20"/></clipPath>
+<clipPath id="trc_cl"><rect width="488" height="278" rx="20"/></clipPath>
 </defs>
 <g clip-path="url(#trc_cl)">
-<rect width="480" height="170" fill="url(#trc_bg)"/>
-<rect width="480" height="170" fill="none" stroke="#8B5CF64D"/>
-<circle cx="440" cy="20" r="120" filter="url(#trc_bl)" fill="#8B5CF6" opacity="0.22"/>
-<text x="24" y="34" font-family="'Segoe UI', ui-sans-serif, system-ui, sans-serif" font-size="15.5" font-weight="700" fill="#EEF0FA">Trophy Case</text>
-<circle cx="458" cy="30" r="3.4" fill="#34D399"><animate attributeName="opacity" values="0.4;1;0.4" keyTimes="0;0.5;1" dur="2.4s" repeatCount="indefinite"/></circle>
-<g transform='translate(24,46)'><rect width='97.5' height='96' rx='14' fill='#12162A80' stroke='#8B5CF64D'/><text x='48.75' y='34' text-anchor='middle' font-size='22' fill='#22D3EE'>◈</text><text x='48.75' y='62' text-anchor='middle' font-family=''Segoe UI', ui-sans-serif, system-ui, sans-serif' font-size='18' font-weight='700' fill='#EEF0FA'>4</text><text x='48.75' y='82' text-anchor='middle' font-family=''Segoe UI', ui-sans-serif, system-ui, sans-serif' font-size='9.5' fill='#9AA1BE'>REPOSITORIES</text></g><g transform='translate(135.5,46)'><rect width='97.5' height='96' rx='14' fill='#12162A80' stroke='#8B5CF64D'/><text x='48.75' y='34' text-anchor='middle' font-size='22' fill='#22D3EE'>✦</text><text x='48.75' y='62' text-anchor='middle' font-family=''Segoe UI', ui-sans-serif, system-ui, sans-serif' font-size='18' font-weight='700' fill='#EEF0FA'>0</text><text x='48.75' y='82' text-anchor='middle' font-family=''Segoe UI', ui-sans-serif, system-ui, sans-serif' font-size='9.5' fill='#9AA1BE'>CONTRIBUTIONS</text></g><g transform='translate(247,46)'><rect width='97.5' height='96' rx='14' fill='#12162A80' stroke='#8B5CF64D'/><text x='48.75' y='34' text-anchor='middle' font-size='22' fill='#22D3EE'>▲</text><text x='48.75' y='62' text-anchor='middle' font-family=''Segoe UI', ui-sans-serif, system-ui, sans-serif' font-size='18' font-weight='700' fill='#EEF0FA'>0d</text><text x='48.75' y='82' text-anchor='middle' font-family=''Segoe UI', ui-sans-serif, system-ui, sans-serif' font-size='9.5' fill='#9AA1BE'>LONGEST STREAK</text></g><g transform='translate(358.5,46)'><rect width='97.5' height='96' rx='14' fill='#12162A80' stroke='#8B5CF64D'/><text x='48.75' y='34' text-anchor='middle' font-size='22' fill='#22D3EE'>★</text><text x='48.75' y='62' text-anchor='middle' font-family=''Segoe UI', ui-sans-serif, system-ui, sans-serif' font-size='18' font-weight='700' fill='#EEF0FA'>0</text><text x='48.75' y='82' text-anchor='middle' font-family=''Segoe UI', ui-sans-serif, system-ui, sans-serif' font-size='9.5' fill='#9AA1BE'>BEST MONTH</text></g><text x='24' y='150' font-family=''Segoe UI', ui-sans-serif, system-ui, sans-serif' font-size='10' fill='#5D6484'>Live snapshot from github.com/Ayush17goyal</text>
+<rect width="488" height="278" fill="url(#trc_bg)"/>
+<rect width="488" height="278" fill="none" stroke="#8B5CF64D"/>
+<circle cx="448" cy="20" r="120" filter="url(#trc_bl)" fill="#8B5CF6" opacity="0.22"/>
+<text x="24" y="34" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="15.5" font-weight="700" fill="#EEF0FA">Trophy Case</text>
+<circle cx="466" cy="30" r="3.4" fill="#34D399"><animate attributeName="opacity" values="0.4;1;0.4" keyTimes="0;0.5;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="0s"/>
+<rect x="24" y="46" width="140" height="96" rx="14" fill="#12162A80" stroke="#8B5CF64D"/>
+<text x="94" y="80" text-anchor="middle" font-size="22" fill="#22D3EE">◈</text>
+<text x="94" y="108" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700" fill="#EEF0FA">23</text>
+<text x="94" y="128" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="9" fill="#9AA1BE">REPOSITORIES</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="0.1s"/>
+<rect x="174" y="46" width="140" height="96" rx="14" fill="#12162A80" stroke="#8B5CF64D"/>
+<text x="244" y="80" text-anchor="middle" font-size="22" fill="#A78BFA">✦</text>
+<text x="244" y="108" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700" fill="#EEF0FA">127</text>
+<text x="244" y="128" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="9" fill="#9AA1BE">CONTRIBUTIONS</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="0.2s"/>
+<rect x="324" y="46" width="140" height="96" rx="14" fill="#12162A80" stroke="#8B5CF64D"/>
+<text x="394" y="80" text-anchor="middle" font-size="22" fill="#34D399">▲</text>
+<text x="394" y="108" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700" fill="#EEF0FA">7d</text>
+<text x="394" y="128" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="9" fill="#9AA1BE">LONGEST STREAK</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="0.3s"/>
+<rect x="24" y="152" width="140" height="96" rx="14" fill="#12162A80" stroke="#8B5CF64D"/>
+<text x="94" y="186" text-anchor="middle" font-size="22" fill="#22D3EE">★</text>
+<text x="94" y="214" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700" fill="#EEF0FA">8</text>
+<text x="94" y="234" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="9" fill="#9AA1BE">BEST MONTH</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="0.4s"/>
+<rect x="174" y="152" width="140" height="96" rx="14" fill="#12162A80" stroke="#8B5CF64D"/>
+<text x="244" y="186" text-anchor="middle" font-size="22" fill="#F59E0B">⬡</text>
+<text x="244" y="214" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700" fill="#EEF0FA">2024</text>
+<text x="244" y="234" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="9" fill="#9AA1BE">JOINED YEAR</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" fill="freeze" begin="0.5s"/>
+<rect x="324" y="152" width="140" height="96" rx="14" fill="#12162A80" stroke="#8B5CF64D"/>
+<text x="394" y="186" text-anchor="middle" font-size="22" fill="#A78BFA">◉</text>
+<text x="394" y="214" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="18" font-weight="700" fill="#EEF0FA">1</text>
+<text x="394" y="234" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="9" fill="#9AA1BE">PRs MERGED</text>
+</g>
+<text x="24" y="268" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="10" fill="#5D6484">Live snapshot from github.com/Ayush17goyal</text>
 </g></svg>
