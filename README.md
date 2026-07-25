@@ -187,25 +187,25 @@ Author of **"N-CYPHER: The Future of AI Automation and Intelligent Ecosystems"**
 ## Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="contributions.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="contributions-light.svg?v=1">
-  <img src="contributions.svg?v=1" alt="Contribution activity heatmap for Ayush17goyal" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ayush17goyal&bg_color=05060B&color=22D3EE&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Ayush17goyal">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ayush17goyal&bg_color=EEF0FF&color=6D28D9&line=0891B2&point=6D28D9&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Ayush17goyal">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush17goyal&bg_color=05060B&color=22D3EE&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Ayush17goyal" alt="Contribution activity graph for Ayush17goyal" width="100%">
 </picture>
 
 ## Trophies
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="trophies.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="trophies-light.svg?v=1">
-  <img src="trophies.svg?v=1" alt="Trophy case for Ayush17goyal" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Ayush17goyal&theme=darkhub&no-frame=true&margin-w=6&column=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Ayush17goyal&theme=flat&no-frame=true&margin-w=6&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush17goyal&theme=darkhub&no-frame=true&margin-w=6&column=6" alt="Trophy case for Ayush17goyal" width="100%">
 </picture>
 
 ## Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="langs.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="langs-light.svg?v=1">
-  <img src="langs.svg?v=1" alt="Most used languages for Ayush17goyal" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush17goyal&layout=compact&theme=tokyonight&bg_color=05060B&border_color=8B5CF6&title_color=A78BFA&text_color=EEF0FA&hide_border=false&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush17goyal&layout=compact&theme=default&bg_color=EEF0FF&border_color=6D28D9&title_color=6D28D9&text_color=12131F&hide_border=false&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush17goyal&layout=compact&theme=tokyonight&bg_color=05060B&border_color=8B5CF6&title_color=A78BFA&text_color=EEF0FA&hide_border=false&langs_count=8" alt="Most used languages for Ayush17goyal" width="100%">
 </picture>
 
 ## GitHub Snake
