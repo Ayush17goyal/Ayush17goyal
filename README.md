@@ -186,7 +186,11 @@ Author of **"N-CYPHER: The Future of AI Automation and Intelligent Ecosystems"**
 
 ## Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush17goyal&bg_color=05060B&color=22D3EE&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF630&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Ayush17goyal&radius=6" alt="Contribution activity graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="contributions.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="contributions-light.svg?v=2">
+  <img src="contributions.svg?v=2" alt="Contribution activity graph for Ayush17goyal" width="100%">
+</picture>
 
 ## Trophies
 
