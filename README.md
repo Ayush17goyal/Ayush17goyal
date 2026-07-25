@@ -143,7 +143,7 @@ Author of **"N-CYPHER: The Future of AI Automation and Intelligent Ecosystems"**
 </td>
 <td width="28%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/📚-Published%20Author-8B5CF6?style=for-the-badge&labelColor=05060B"/>
+<img src="book-cover.jpg" alt="N-CYPHER Book Cover" width="160"/>
 
 </td>
 </tr>
