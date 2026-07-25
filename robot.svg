@@ -77,8 +77,7 @@
 </style>
 
 <g clip-path="url(#robotClip)">
-<!-- Background -->
-<rect width="320" height="420" fill="#07091A"/>
+<!-- Background transparent -->
 
 <!-- Ambient orb glow (bg) -->
 <circle cx="160" cy="210" r="140" fill="#8B5CF6" opacity="0.04" filter="url(#softglow)"/>

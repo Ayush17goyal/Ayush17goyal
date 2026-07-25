@@ -87,7 +87,7 @@ I'm continuously exploring emerging technologies and building solutions that bri
 
 ## Tech Stack
 
-<img src="robot.svg?v=1" alt="N-CYPHER AI Robot" width="200" align="right"/>
+<img src="robot.svg?v=2" alt="N-CYPHER AI Robot" width="300" align="right"/>
 
 **Languages**
 <p>
