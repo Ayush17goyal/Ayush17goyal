@@ -120,6 +120,44 @@ I build AI products, intelligent automation systems, and scalable software with 
 <img src="https://img.shields.io/badge/GitHub-05060B?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </p>
 
+## Published Work
+
+<table width="100%">
+<tr>
+<td width="72%" valign="top">
+
+### 📖 N-CYPHER: The Future of AI Automation and Intelligent Ecosystems
+
+Author of **"N-CYPHER: The Future of AI Automation and Intelligent Ecosystems"** — a book exploring AI agents, intelligent automation, business intelligence, cybersecurity, and autonomous systems. The book examines enterprise transformation, human-AI collaboration, intelligent ecosystems, and emerging technologies shaping the future of work.
+
+> *Provides practical insights for students, entrepreneurs, professionals, and business leaders navigating the AI-driven future.*
+
+<a href="https://www.amazon.in/s?k=N-CYPHER+Ayush+Goyal"><img src="https://img.shields.io/badge/Available%20on-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=05060B" alt="Available on Amazon"/></a>
+
+</td>
+<td width="28%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/📚-Published%20Author-8B5CF6?style=for-the-badge&labelColor=05060B"/>
+
+</td>
+</tr>
+</table>
+
+## Experience
+
+### 💼 Web Developer Intern — Charioteer Blockchain & AI Solutions
+
+<img src="https://img.shields.io/badge/Role-Web%20Developer%20Intern-22D3EE?style=for-the-badge&labelColor=05060B"/>
+<img src="https://img.shields.io/badge/Domain-Blockchain%20%26%20AI-8B5CF6?style=for-the-badge&labelColor=05060B"/>
+
+- Developed and maintained responsive web applications using modern web technologies
+- Worked with **Microsoft Azure** services for application deployment, cloud infrastructure, and resource management
+- Assisted in integrating cloud-based solutions to improve application performance and scalability
+- Collaborated with AI and Blockchain development teams to support feature implementation and backend integration
+- Participated in debugging, testing, and optimizing web applications for better performance
+- Worked with **REST APIs**, databases, and version control (Git/GitHub) in an Agile development environment
+- Gained hands-on experience in cloud computing, Azure services, AI-powered applications, and blockchain-based solutions
+
 ## Featured Projects
 
 | Project | Description |
