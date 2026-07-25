@@ -220,6 +220,8 @@ Author of **"N-CYPHER: The Future of AI Automation and Intelligent Ecosystems"**
 
 <a href="mailto:ayushgoyal9373@gmail.com"><img src="https://img.shields.io/badge/Email-05060B?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>
 <a href="https://github.com/Ayush17goyal"><img src="https://img.shields.io/badge/GitHub-05060B?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ayushgoyal-ai"><img src="https://img.shields.io/badge/LinkedIn-05060B?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
+<a href="https://portfolio-ayushgoyal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-05060B?style=for-the-badge&logo=vercel&logoColor=8B5CF6" alt="Portfolio"/></a>
 
 </div>
 
