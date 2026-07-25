@@ -97,7 +97,7 @@
   <path d="M1272 372 L1252 372 L1252 352"/>
 </g>
 <!-- Scan beam -->
-<rect class="scan-beam" x="0" y="0" width="1280" height="6" fill="url(#scanGrad)" rx="3"/>
+<rect class="scan-beam" x="760" y="0" width="520" height="6" fill="url(#scanGrad)" rx="3"/>
 <!-- ===== LEFT TERMINAL PANEL ===== -->
 <rect x="28" y="26" width="380" height="228" rx="10" fill="#0A0D1699" stroke="#8B5CF648" stroke-width="1"/>
 <rect x="28" y="26" width="380" height="30" rx="10" fill="#10132099"/>
@@ -110,7 +110,7 @@
 <text x="46" y="108" font-family="'Courier New',monospace" font-size="12" fill="#8B5CF6" class="tl2">&gt;_ LOADING: AYUSH.GOYAL</text>
 <text x="46" y="130" font-family="'Courier New',monospace" font-size="12" fill="#34D399" class="tl3">&gt;_ STATUS: [ OPERATIONAL ]</text>
 <text x="46" y="152" font-family="'Courier New',monospace" font-size="12" fill="#22D3EE" class="tl4">&gt;_ MODE: FULL-STACK + AI + SEC</text>
-<text x="46" y="174" font-family="'Courier New',monospace" font-size="12" fill="#A78BFA" class="tl5">&gt;_ AGENCY: N-CYPHER AUTOMATIONS</text>
+<text x="46" y="174" font-family="'Courier New',monospace" font-size="12" fill="#A78BFA" class="tl5">&gt;_ AGENCY: N-CYPHER</text>
 <text x="46" y="196" font-family="'Courier New',monospace" font-size="13" fill="#EEF0FA" class="cursor">&#9608;</text>
 <rect x="36" y="204" width="364" height="36" rx="7" fill="#12162A90"/>
 <circle cx="56" cy="222" r="5" fill="#34D399" class="sd"/>
@@ -118,14 +118,15 @@
 <text x="172" y="226" font-family="'Courier New',monospace" font-size="10" fill="#5D6484">|  AMITY · 2024–28</text>
 <!-- ===== CENTER HERO CONTENT ===== -->
 <!-- Name -->
-<text x="530" y="148" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="46" font-weight="700" fill="url(#nameGrad)" letter-spacing="2" filter="url(#nameGlow)" class="name-el">AYUSH GOYAL</text>
-<line x1="430" y1="160" x2="760" y2="160" stroke="#8B5CF6" stroke-width="1" opacity="0.3" class="name-el"/>
+<text x="595" y="142" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="48" font-weight="700" fill="url(#nameGrad)" letter-spacing="2" filter="url(#nameGlow)" class="name-el">AYUSH GOYAL</text>
+<text x="595" y="168" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="12" font-weight="600" fill="#8B5CF6" letter-spacing="4" class="name-el">FOUNDER &amp; CEO · N-CYPHER</text>
+<line x1="430" y1="182" x2="760" y2="182" stroke="#8B5CF6" stroke-width="1" opacity="0.3" class="name-el"/>
 <!-- Roles -->
-<text x="530" y="195" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" fill="#22D3EE" letter-spacing="3" class="role1">FULL STACK DEVELOPER</text>
-<text x="530" y="195" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" fill="#8B5CF6" letter-spacing="3" class="role2">CYBERSECURITY LEARNER</text>
-<text x="530" y="195" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" fill="#22D3EE" letter-spacing="3" class="role3">DATA ANALYST WITH AI</text>
-<text x="530" y="195" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" fill="#8B5CF6" letter-spacing="3" class="role4">AGENTIC AI BUILDER</text>
-<text x="530" y="195" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" fill="#22D3EE" letter-spacing="3" class="role5">N-CYPHER AUTOMATIONS</text>
+<text x="595" y="200" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" fill="#22D3EE" letter-spacing="3" class="role1">FULL STACK DEVELOPER</text>
+<text x="595" y="200" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" fill="#8B5CF6" letter-spacing="3" class="role2">CYBERSECURITY LEARNER</text>
+<text x="595" y="200" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" fill="#22D3EE" letter-spacing="3" class="role3">DATA ANALYST WITH AI</text>
+<text x="595" y="200" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" fill="#8B5CF6" letter-spacing="3" class="role4">AGENTIC AI BUILDER</text>
+<text x="595" y="200" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="16" fill="#22D3EE" letter-spacing="3" class="role5">N-CYPHER</text>
 <!-- Tags -->
 <g class="tag-el">
   <rect x="430" y="216" width="120" height="22" rx="11" fill="#8B5CF618" stroke="#8B5CF648"/>
