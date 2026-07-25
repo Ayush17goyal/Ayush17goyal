@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 160" width="860" height="160" role="img" aria-label="Contribution Activity">
+<title>Contribution Activity — real daily data</title>
+<defs>
+<linearGradient id="cgl_bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FAFBFF"/><stop offset="100%" stop-color="#F3F4FB"/></linearGradient>
+<filter id="cgl_bl" x="-150%" y="-150%" width="400%" height="400%"><feGaussianBlur stdDeviation="34"/></filter>
+<clipPath id="cgl_cl"><rect width="860" height="160" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#cgl_cl)">
+<rect width="860" height="160" fill="url(#cgl_bg)"/>
+<rect width="860" height="160" fill="none" stroke="#6D28D93D"/>
+<circle cx="820" cy="20" r="120" filter="url(#cgl_bl)" fill="#6D28D9" opacity="0.12"/>
+<text x="24" y="34" font-family="'Segoe UI',sans-serif" font-size="15.5" font-weight="700" fill="#12131F">Contribution Activity — real daily data</text>
+<circle cx="838" cy="30" r="3.4" fill="#059669"><animate attributeName="opacity" values="0.4;1;0.4" keyTimes="0;0.5;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="430" y="100" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="13" fill="#7B819C">Run the update-stats workflow to populate live data</text>
+</g>
+</svg>

@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 380" width="1280" height="380" role="img" aria-label="Ayush Goyal — Full Stack Developer · Cybersecurity Learner · Data Analyst with AI">
+<title>Ayush Goyal — Full Stack Developer · Cybersecurity Learner · Data Analyst with AI</title>
+<defs>
+  <linearGradient id="lbgGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#EEF0FF"/>
+    <stop offset="100%" stop-color="#F3F4FB"/>
+  </linearGradient>
+  <linearGradient id="lscanGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#F3F4FB00"/>
+    <stop offset="50%" stop-color="#0891B2"/>
+    <stop offset="100%" stop-color="#F3F4FB00"/>
+  </linearGradient>
+  <linearGradient id="lnameGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#12131F"/>
+    <stop offset="55%" stop-color="#6D28D9"/>
+    <stop offset="100%" stop-color="#0891B2"/>
+  </linearGradient>
+  <filter id="lsoftGlow" x="-200%" y="-200%" width="500%" height="500%">
+    <feGaussianBlur stdDeviation="40"/>
+  </filter>
+  <clipPath id="lbannerClip"><rect width="1280" height="380"/></clipPath>
+</defs>
+<style>
+  @keyframes lblink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+  @keyframes lscanMove { 0%{transform:translateY(-6px);opacity:0} 5%{opacity:0.7} 95%{opacity:0.7} 100%{transform:translateY(386px);opacity:0} }
+  @keyframes lrole1show { 0%,2%{opacity:0} 5%,18%{opacity:1} 21%,100%{opacity:0} }
+  @keyframes lrole2show { 0%,21%{opacity:0} 24%,38%{opacity:1} 41%,100%{opacity:0} }
+  @keyframes lrole3show { 0%,41%{opacity:0} 44%,58%{opacity:1} 61%,100%{opacity:0} }
+  @keyframes lrole4show { 0%,61%{opacity:0} 64%,78%{opacity:1} 81%,100%{opacity:0} }
+  @keyframes lrole5show { 0%,81%{opacity:0} 84%,98%{opacity:1} 100%{opacity:0} }
+  @keyframes ltl1 { 0%,9%{opacity:0} 10%,100%{opacity:1} }
+  @keyframes ltl2 { 0%,19%{opacity:0} 20%,100%{opacity:1} }
+  @keyframes ltl3 { 0%,29%{opacity:0} 30%,100%{opacity:1} }
+  @keyframes ltl4 { 0%,39%{opacity:0} 40%,100%{opacity:1} }
+  @keyframes ltl5 { 0%,49%{opacity:0} 50%,100%{opacity:1} }
+  @keyframes lcursorShow { 0%,49%{opacity:0} 50%,100%{opacity:1} }
+  @keyframes lstatDot { 0%,100%{opacity:0.5} 50%{opacity:1} }
+  @keyframes lfadeUp { 0%,55%{opacity:0;transform:translateY(8px)} 75%,100%{opacity:1;transform:translateY(0)} }
+  @keyframes ltagFade { 0%,65%{opacity:0} 80%,100%{opacity:1} }
+  @keyframes lstripFade { 0%,70%{opacity:0} 85%,100%{opacity:1} }
+  .lscan { animation: lscanMove 5s 1.5s infinite; }
+  .lr1 { animation: lrole1show 10s 2.5s infinite; opacity:0; }
+  .lr2 { animation: lrole2show 10s 2.5s infinite; opacity:0; }
+  .lr3 { animation: lrole3show 10s 2.5s infinite; opacity:0; }
+  .lr4 { animation: lrole4show 10s 2.5s infinite; opacity:0; }
+  .lr5 { animation: lrole5show 10s 2.5s infinite; opacity:0; }
+  .ltl1 { animation: ltl1 12s 0.3s both; }
+  .ltl2 { animation: ltl2 12s 0.3s both; }
+  .ltl3 { animation: ltl3 12s 0.3s both; }
+  .ltl4 { animation: ltl4 12s 0.3s both; }
+  .ltl5 { animation: ltl5 12s 0.3s both; }
+  .lcur { animation: lcursorShow 12s 0.3s both, lblink 0.75s 6.2s infinite; opacity:0; }
+  .lsd { animation: lstatDot 1.5s infinite; }
+  .lname { animation: lfadeUp 2s 1s both; }
+  .ltag { animation: ltagFade 2s 1.5s both; }
+  .lstrip { animation: lstripFade 2s 2s both; }
+</style>
+<g clip-path="url(#lbannerClip)">
+<rect width="1280" height="380" fill="url(#lbgGrad)"/>
+<g opacity="0.06" stroke="#6D28D9" stroke-width="0.8">
+  <line x1="80" y1="0" x2="80" y2="380"/><line x1="160" y1="0" x2="160" y2="380"/><line x1="240" y1="0" x2="240" y2="380"/><line x1="320" y1="0" x2="320" y2="380"/><line x1="400" y1="0" x2="400" y2="380"/><line x1="480" y1="0" x2="480" y2="380"/><line x1="560" y1="0" x2="560" y2="380"/><line x1="640" y1="0" x2="640" y2="380"/><line x1="720" y1="0" x2="720" y2="380"/><line x1="800" y1="0" x2="800" y2="380"/><line x1="880" y1="0" x2="880" y2="380"/><line x1="960" y1="0" x2="960" y2="380"/><line x1="1040" y1="0" x2="1040" y2="380"/><line x1="1120" y1="0" x2="1120" y2="380"/><line x1="1200" y1="0" x2="1200" y2="380"/>
+  <line x1="0" y1="60" x2="1280" y2="60"/><line x1="0" y1="120" x2="1280" y2="120"/><line x1="0" y1="180" x2="1280" y2="180"/><line x1="0" y1="240" x2="1280" y2="240"/><line x1="0" y1="300" x2="1280" y2="300"/><line x1="0" y1="360" x2="1280" y2="360"/>
+</g>
+<circle cx="960" cy="180" r="200" fill="#7C3AED" filter="url(#lsoftGlow)" opacity="0.08"/>
+<circle cx="1180" cy="60" r="100" fill="#0891B2" filter="url(#lsoftGlow)" opacity="0.06"/>
+<rect class="lscan" x="0" y="0" width="1280" height="6" fill="url(#lscanGrad)" rx="3"/>
+<!-- Terminal -->
+<rect x="28" y="26" width="398" height="238" rx="10" fill="#FFFFFF99" stroke="#6D28D930" stroke-width="1"/>
+<rect x="28" y="26" width="398" height="30" rx="10" fill="#E8EAFF"/>
+<rect x="28" y="42" width="398" height="14" fill="#E8EAFF"/>
+<circle cx="50" cy="41" r="5.5" fill="#FF5F57" opacity="0.9"/>
+<circle cx="70" cy="41" r="5.5" fill="#FFBD2E" opacity="0.9"/>
+<circle cx="90" cy="41" r="5.5" fill="#28C840" opacity="0.9"/>
+<text x="228" y="46" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#7B819C">N-CYPHER TERMINAL v2.4.1</text>
+<text x="46" y="86" font-family="'Courier New',monospace" font-size="12.5" fill="#0891B2" class="ltl1">&gt;_ BOOT SEQUENCE INITIATED...</text>
+<text x="46" y="110" font-family="'Courier New',monospace" font-size="12.5" fill="#6D28D9" class="ltl2">&gt;_ LOADING: AYUSH.GOYAL</text>
+<text x="46" y="134" font-family="'Courier New',monospace" font-size="12.5" fill="#059669" class="ltl3">&gt;_ STATUS: [ OPERATIONAL ]</text>
+<text x="46" y="158" font-family="'Courier New',monospace" font-size="12.5" fill="#0891B2" class="ltl4">&gt;_ MODE: FULL-STACK + AI + SEC</text>
+<text x="46" y="182" font-family="'Courier New',monospace" font-size="12.5" fill="#6D28D9" class="ltl5">&gt;_ AGENCY: N-CYPHER AUTOMATIONS</text>
+<text x="46" y="206" font-family="'Courier New',monospace" font-size="13" fill="#12131F" class="lcur">█</text>
+<rect x="36" y="212" width="382" height="38" rx="7" fill="#E8EAFF90"/>
+<circle cx="56" cy="231" r="5.5" fill="#059669" class="lsd"/>
+<text x="70" y="235" font-family="'Courier New',monospace" font-size="10.5" fill="#059669">OPERATIONAL</text>
+<text x="178" y="235" font-family="'Courier New',monospace" font-size="10.5" fill="#7B819C">|  AMITY · NOIDA · 2024–28</text>
+<!-- Hero -->
+<g class="lname">
+  <line x1="462" y1="124" x2="590" y2="124" stroke="#6D28D9" stroke-width="1.2" opacity="0.5"/>
+  <line x1="462" y1="128" x2="540" y2="128" stroke="#0891B2" stroke-width="0.6" opacity="0.35"/>
+</g>
+<text x="878" y="160" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="54" font-weight="700" fill="url(#lnameGrad)" letter-spacing="3" class="lname">AYUSH GOYAL</text>
+<line x1="640" y1="172" x2="1116" y2="172" stroke="#6D28D9" stroke-width="1" opacity="0.2" class="lname"/>
+<text x="878" y="208" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="18" fill="#0891B2" letter-spacing="4" class="lr1">FULL STACK DEVELOPER</text>
+<text x="878" y="208" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="18" fill="#6D28D9" letter-spacing="4" class="lr2">CYBERSECURITY LEARNER</text>
+<text x="878" y="208" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="18" fill="#0891B2" letter-spacing="4" class="lr3">DATA ANALYST WITH AI</text>
+<text x="878" y="208" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="18" fill="#6D28D9" letter-spacing="4" class="lr4">AGENTIC AI BUILDER</text>
+<text x="878" y="208" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,system-ui,sans-serif" font-size="18" fill="#0891B2" letter-spacing="4" class="lr5">N-CYPHER AUTOMATIONS</text>
+<!-- Tags -->
+<g class="ltag">
+  <rect x="522" y="232" width="132" height="24" rx="12" fill="#6D28D915" stroke="#6D28D935"/>
+  <text x="588" y="249" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#6D28D9">⚡ AI Automation</text>
+  <rect x="664" y="232" width="122" height="24" rx="12" fill="#0891B215" stroke="#0891B235"/>
+  <text x="725" y="249" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#0891B2">🔒 Cybersecurity</text>
+  <rect x="796" y="232" width="126" height="24" rx="12" fill="#6D28D915" stroke="#6D28D935"/>
+  <text x="859" y="249" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#6D28D9">🤖 LLM Systems</text>
+  <rect x="932" y="232" width="132" height="24" rx="12" fill="#0891B215" stroke="#0891B235"/>
+  <text x="998" y="249" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#0891B2">📊 Data Analytics</text>
+  <rect x="1074" y="232" width="110" height="24" rx="12" fill="#05966915" stroke="#05966935"/>
+  <text x="1129" y="249" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="10.5" fill="#059669">🌐 Full Stack</text>
+</g>
+<!-- Strip -->
+<rect x="462" y="306" width="790" height="46" rx="8" fill="#FFFFFF90" stroke="#6D28D920" stroke-width="1" class="lstrip"/>
+<text x="480" y="334" font-family="'Segoe UI',sans-serif" font-size="11" fill="#7B819C" class="lstrip">Amity University Noida  •  B.Tech CSE  •  2024–2028</text>
+<text x="878" y="334" text-anchor="middle" font-family="'Courier New',monospace" font-size="11.5" fill="#6D28D9" class="lstrip">@Ayush17goyal</text>
+<circle cx="1206" cy="329" r="5" fill="#059669" class="lsd lstrip"/>
+<text x="1218" y="333" font-family="'Segoe UI',sans-serif" font-size="10" fill="#059669" class="lstrip">ACTIVE</text>
+<!-- Corners -->
+<g stroke="#0891B2" stroke-width="1.8" opacity="0.45" fill="none">
+  <path d="M1244 16 L1266 16 L1266 38"/>
+  <path d="M1244 364 L1266 364 L1266 342"/>
+</g>
+<g stroke="#6D28D9" stroke-width="1.8" opacity="0.45" fill="none">
+  <path d="M442 16 L462 16 L462 38"/>
+  <path d="M442 364 L462 364 L462 342"/>
+</g>
+</g>
+</svg>
